@@ -1,4 +1,3 @@
-# NOTE: Need to have input have a newline character at the end
 with open('Day7 input.txt') as f:
     lines = f.readlines()
 
