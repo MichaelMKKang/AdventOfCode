@@ -36,6 +36,7 @@ def get_score(board, mb):
 
 
 if __name__ == '__main__':
+    # NOTE: Need to have input have a newline character at the end
     with open('Day4 input.txt') as f:
         lines = f.readlines()
 
